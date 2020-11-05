@@ -20,6 +20,10 @@ export default function App() {
         }}
       >
         <Marker
+          calloutAnchor={{
+            x: 2.7,
+            y: 0.8,
+          }}
           icon={mapMarker}
           coordinate={{
             latitude: -16.7354414,
