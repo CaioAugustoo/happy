@@ -5,7 +5,7 @@ Aplicação mobile desenvolvida com React Navigate durante a NLW 3
 Este projeto consiste em uma aplicação mobile que reúne os orfanatos ao redor do Brasil.
 
 ## ✨ Demonstração
-Veja abaixo uma foto do projeto.
+Veja abaixo uma foto do projeto. <br/>
 [![Image from Gyazo](https://i.gyazo.com/9d5a18bb07d8664ba229873076368a53.png)](https://gyazo.com/9d5a18bb07d8664ba229873076368a53)
 
 
